@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Le Bibliotheque</string>
+    <string name="search_prompt">Search for anything ...</string>
+    <string name="search_button_text">Go</string>
+    <string name="no_network">No Internet Connection</string>
+    <string name="title_text">Title</string>
+    <string name="author_text">Author</string>
+    <string name="error_loading_books">Error Loading Books</string>
+    <string name="no_results_text">Looks like we didn\'t find anything</string>
+    <string name="description_text">Description</string>
+    <string name="publisher_text">Publisher</string>
+    <string name="published_date">Published in</string>
+</resources>
